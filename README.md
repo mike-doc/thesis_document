@@ -1,1 +1,1 @@
-# thesis_document
+# Η διπλωματική μου εργασία βασισμένη σε template από τον eparon
