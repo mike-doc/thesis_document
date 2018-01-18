@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TexmakerSession quickmode="10">
-    <document master="false" hasfocus="false" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/acknowledgements.tex" bookmark2="0" line="0"/>
-    <document master="false" hasfocus="false" bookmark1="0" bookmark3="0" file="C:\Users\mike\OneDrive\Διπλωματική\thesis_document\ece-upatras-thesis-template-master\upatras-thesis.sty" bookmark2="0" line="23"/>
-    <document master="false" hasfocus="false" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/chapter_1.tex" bookmark2="0" line="0"/>
-    <document master="false" hasfocus="true" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/chapter_4.tex" bookmark2="0" line="6"/>
-    <document master="false" hasfocus="false" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/chapter_2.tex" bookmark2="0" line="32"/>
-    <document master="false" hasfocus="false" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/chapter_3.tex" bookmark2="0" line="0"/>
-    <document master="false" hasfocus="false" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/summary.tex" bookmark2="0" line="7"/>
-    <document master="false" hasfocus="false" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/introduction.tex" bookmark2="0" line="0"/>
-    <document master="false" hasfocus="false" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/bibliography.tex" bookmark2="0" line="17"/>
-    <document master="false" hasfocus="false" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/about.tex" bookmark2="0" line="0"/>
-    <document master="false" hasfocus="false" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/certification.tex" bookmark2="0" line="0"/>
-    <document master="false" hasfocus="false" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/lastpage.tex" bookmark2="0" line="0"/>
-    <document master="false" hasfocus="false" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/titlepage.tex" bookmark2="0" line="0"/>
-    <document master="true" hasfocus="false" bookmark1="0" bookmark3="0" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/main.tex" bookmark2="0" line="4"/>
+    <document hasfocus="false" line="0" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/lastpage.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="0" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/chapter_3.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="302" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/chapter_4.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="0" master="true" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/main.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="0" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/certification.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="0" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/summary.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="0" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/introduction.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="0" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/titlepage.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="0" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/bibliography.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="0" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/about.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="0" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/chapter_2.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="0" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/chapter_1.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="0" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/acknowledgements.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="false" line="0" master="false" file="C:\Users\mike\OneDrive\Διπλωματική\thesis_document\ece-upatras-thesis-template-master\upatras-thesis.sty" bookmark1="0" bookmark2="0" bookmark3="0"/>
+    <document hasfocus="true" line="4" master="false" file="C:/Users/mike/OneDrive/Διπλωματική/thesis_document/ece-upatras-thesis-template-master/chapters/chapter_5.tex" bookmark1="0" bookmark2="0" bookmark3="0"/>
 </TexmakerSession>
